@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+table, th, tr, td{
+    border: 1px solid black;
+border-color: rgb(144, 139, 138);
+border-width: 2px;
+}
+.table-of-books{
+background-color: bisque;
+margin-bottom: 50px;
+border-radius: 10px;
+}
+form{
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding: 20px;
+}
+input{
+    opacity: 30%;
+    border-radius: 10px;
+    width: 50vh;
+}
+button{
+   color: white;
+   background-color: grey;
+   border-radius: 5px;
+   margin: 20px;
+   padding: 5px;
+}
+
+.nav-list{
+    display: flex;
+    justify-content: space-around;
+}
+.naviagtion-div{
+   position:sticky;
+   box-sizing: border-box;
+}
